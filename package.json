@@ -1,11 +1,12 @@
 {
   "name": "chat-and-go",
-  "version": "1.0.1",
-  "description": "firebase based chat plugin, written with plain javascript.",
+  "version": "2.0.1",
+  "description": "Socket io and mysql chat plugin.",
   "main": "chat_window.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/server.js"
+    "start": "node lib/Server.js",
+    "chatandgo": "node lib/Server.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "express": "^4.17.1",
     "mysql": "^2.17.1",
     "npm": "^6.10.1",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.3.0"
   }
 }
