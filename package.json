@@ -1,0 +1,32 @@
+{
+  "name": "chat-and-go",
+  "version": "1.0.1",
+  "description": "firebase based chat plugin, written with plain javascript.",
+  "main": "chat_window.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafaronly/chat-and-go.git"
+  },
+  "keywords": [
+    "socket io",
+    "chat",
+    "plugin",
+    "javascript"
+  ],
+  "author": "Jafar Jabr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jafaronly/chat-and-go/issues"
+  },
+  "homepage": "https://github.com/jafaronly/chat-and-go#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "npm": "^6.10.1",
+    "socket.io": "^2.2.0"
+  }
+}
