@@ -1,8 +1,8 @@
 {
-  "name": "chat-and-go",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Socket io and mysql chat plugin.",
-  "main": "chat_window.html",
+  "main": "lib/ClientProcessor.js",
+  "name": "chat-and-go",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node lib/Server.js",
