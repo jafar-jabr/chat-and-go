@@ -1,6 +1,6 @@
 {
   "name": "chat-and-go",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Socket io and mysql chat plugin.",
   "main": "chat_window.html",
   "scripts": {

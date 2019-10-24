@@ -1,10 +1,10 @@
 const chatConf = {
   db_user: 'jafar',
-  db_password: '123456',
+  db_password: '68yIr5K1',
   db_name: 'bringo_chat',
-  end_point: 'http://192.168.0.107:3000',
-  loading_image: 'http://chat-and-go.com/assets/images/loading.gif',
-  images_path: 'http://chat-and-go.com/chat_images/',
+  end_point: 'https://chat-and-go.ascendnet.ro',
+  loading_image: 'https://chat-and-go.ascendnet.ro/assets/images/loading.gif',
+  images_path: 'https://chat-and-go.ascendnet.ro/chat_images/',
   port: 3000,
 };
 
