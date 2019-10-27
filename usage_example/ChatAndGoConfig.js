@@ -11,7 +11,3 @@ const chatConf = {
 try {
   exports.settings = chatConf;
 } catch (err) {}
-
-//// const socket = io('http://192.168.11.206:3000', {
-// const socket = io('http://192.168.0.107:3000', {
-// // const socket = io('https://chat-and-go.ascendnet.ro', {

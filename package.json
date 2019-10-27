@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Socket io and mysql chat plugin.",
   "main": "lib/ClientProcessor.js",
   "name": "chat-and-go",
